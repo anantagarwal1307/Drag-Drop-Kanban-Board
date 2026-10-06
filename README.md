@@ -10,7 +10,7 @@ Organize tasks across **To Do**, **In Progress**, and **Done** columns — each 
 
 | Resource | Link |
 |---|---|
-| 🌐 Live Site | [Open Board](https://anantagarwal1307.github.io/Drag-Drop-Kanban-Board/) |
+| 🌐 Live Site | [Open Board](https://anantagarwal1307.github.io/Drag-Drop-Kanban-Board/index.html) |
 | 📂 Repository | [GitHub Repo](https://github.com/anantagarwal1307/Drag-Drop-Kanban-Board) |
 
 ---
